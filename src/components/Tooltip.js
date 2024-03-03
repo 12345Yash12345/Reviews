@@ -1,4 +1,3 @@
-// Tooltip.js
 import React from "react";
 
 function Tooltip({ topic, position }) {
