@@ -1,0 +1,21 @@
+.review-highlighter {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .positive {
+    color: green;
+  }
+  
+  .negative {
+    color: red;
+  }
+  
+  .neutral {
+    color: black;
+  }
+  
+  .comment {
+    color: blue; /* or any other color you want for comments */
+  }
+  
