@@ -1,9 +1,8 @@
-// App.js
+
 import React, { useEffect, useState } from "react";
 import ReviewList from "./components/ReviewList";
 import "./App.css";
 
-// Random placeholder image URL
 const randomUserPhoto = "user.jpg";
 
 function App() {
